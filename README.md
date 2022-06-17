@@ -8,7 +8,7 @@
   <li>  And now I am on another project about Discovering the Quantitative Indicators of Red Lettuce Growth using opencv. </li>
  </div>
  
-  
+<!--   
  <!—
 **jungmyung-kr/jungmyung-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: …
 - ⚡ Fun fact: … 
 <img src="">
-—>-->
+—>--> -->
   
   <div> 
    <br>
